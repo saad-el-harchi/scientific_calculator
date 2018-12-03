@@ -1,9 +1,9 @@
 def pere(x,y,i):
     global stock
-    fils_gauche=int(x[i])
-    #fils_droit=int(x[i+1])      
+    fils_gauche=int(x[i])     
     pere=y[i+1]
     stock.extend([fils_gauche,pere])
+    
 try:
     expression=input()
     st=list()
