@@ -1,7 +1,8 @@
 """
     Created on wed Nov  14 23:00:00 2018
     @authors:-saad el harchi
-            -houssam zerouali
+             -houssam zerouali
+             -aziagba romuald
             
     this module is made to simulate a calculater.
     to use it you need to call to methods of the modul:
